@@ -1,7 +1,7 @@
 <p align="center">
   <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+ARTIFICIAL +WORLD!+;Java+With+Selenium+;Good+Sense+Of+Humour+;learning+New+Things+;Full+Stack+Developer🎯"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WLC+TO+ARTIFICIAL+WORLD!+;Java+With+Selenium+;Good+Sense+Of+Humour+;learning+New+Things+;Full+Stack+Developer🎯"
             alt="Typing SVG"
         />
     </a>
@@ -28,13 +28,13 @@
 <h2 align="center"></h3>
 
 # 💫 About Me :
-![](https://img.shields.io/badge/Cyber%20Security-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
+![](https://img.shields.io/badge/Fullstack%20Developer-Leader%20%2F%20Creative%20Thinker%2F%20Back%20End%20Developer%20-white)
 <!--
 ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
 ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
 --> 
 
-- 😄 Pronouns: She/His
+- 😄 Pronouns: She/Her
 .
 - 🔭 I’m currently building My personal Projects.
 
@@ -62,9 +62,9 @@
   
   
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Supriya391&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Supriya391&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya391&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--🏆TROPHYGIF-->
 <p align="center">
