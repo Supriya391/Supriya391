@@ -38,11 +38,7 @@
 .
 - 🔭 I’m currently building My personal Projects.
 
-- 🌱 I’m currently learning more about Front End and Cloud Computing.
-
-- 🤔 I’m looking for help with bots.
-
-- 💬 Ask me about Bots.
+- 🌱 I’m currently learning more about Full stack developer and Cloud Computing.
 
 
 
@@ -79,15 +75,15 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
   <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashu1wwww&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supriya391&theme=vue"/>
 </p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=Supriya391&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+<img src="https://github-profile-trophy.vercel.app/?username=Supriya391&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
   
 <p align="center">
