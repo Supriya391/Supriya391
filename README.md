@@ -1,7 +1,7 @@
 <p align="center">
   <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+BOT+WORLD!+;Python+With+Selenium+;Good+Sense+Of+Humour+;learning+New+Things+;Cyber+Security🎯"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+ARTIFICIAL +WORLD!+;Java+With+Selenium+;Good+Sense+Of+Humour+;learning+New+Things+;Full+Stack+Developer🎯"
             alt="Typing SVG"
         />
     </a>
