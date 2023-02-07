@@ -61,10 +61,6 @@
 <img src="https://media2.giphy.com/media/l3vRfNA1p0rvhMSvS/100.webp?cid=ecf05e477rqu5ydt6hkbcsgedhmyyget6mld1kqu1l9f4sbr&rid=100.webp&ct=g" width="120">  
   
   
-# Donate If My Projects Helps You
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](yashwanth6675@okhdfcbank)
-
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=dark&hide_border=false)<br/>
